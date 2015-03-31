@@ -1,0 +1,3 @@
+6359	OOAD	Obj Oriented Ana Des	3	Graduate	JC	true
+6301	Mobile Devices	User Interface in Mobile Devices	3	Graduate	JC	true
+6363	Algorithms	Introduction to Algorithms	3	Graduate	DZD	true

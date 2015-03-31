@@ -1,0 +1,7 @@
+2323	Mobile Devices		0	Graduate		true
+6363	Algorithms		0	Graduate		true
+6360	DatabaseDesign		0	Graduate		true
+6359	Obj Oriented Analysis and Design	OOAD	3	Graduate	JC	true
+1234	Get on the Dance Floor		0	Graduate		true
+6301	Cloud Computing	ssss	0	Graduate		true
+0001	Start up course	Course for Beginners	1	Graduate	JCJCJC	true
